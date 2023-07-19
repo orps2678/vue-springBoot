@@ -1,4 +1,4 @@
 # vue-springBoot
-IDE：
+ IDE：
  vue => vscode
  springBoot => intellij

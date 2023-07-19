@@ -15,7 +15,7 @@ import net.javaguides.springBoot.repository.EmployeeRepository;
 @RequestMapping("/api")
 @CrossOrigin("http://localhost:8081/")
 public class EmployeeController {
-    
+
     @Autowired
     private EmployeeRepository employeeRepository;
 
